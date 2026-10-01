@@ -1,23 +1,21 @@
-# Üdv 11DE!
+# Sziasztok!
 
-Ez egy próba repo.
+## Alcím
+
+### Harmadik alcím
 
 *Dölt*
+
 **Vastag**
-~~Áthúzás~~
-[Ez egy link](petrik.hu)
 
-Ez egy `inline kód`
-(AltGr+7)
+~~Áthúzni~~
 
-### Ez egy hármas alcím
+[link](petrik.hu)
 
-Így lehet 5-ig számolni:
+(AltGr + 7)
 ```py
-for i in range(1,6):
+for i in range(1,11):
     print(i)
 ```
 
-<hr>
-
-Stage után van
+Nulladik
